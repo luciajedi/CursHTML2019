@@ -1,0 +1,12 @@
+
+td, th{
+	text-align: center;
+	border:1px solid black;
+	width: 20%;
+}
+/*body{
+	background-color: green;
+}*/
+table{
+	margin:10px;
+}
