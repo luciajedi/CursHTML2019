@@ -1,0 +1,11 @@
+head, body {
+  height: 100px; }
+
+div {
+  background-color: #404040;
+  background-color: blue;
+  border-radius: 10px;
+  -webkit-transition: 1s;
+  transition: 1s;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(red), to(blue));
+  background-image: linear-gradient(red, blue); }

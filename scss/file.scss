@@ -1,0 +1,10 @@
+head, body{
+	height: 100px;
+}
+div{
+	background-color: grayscale(green);
+	background-color: blue;
+	border-radius: 10px;
+	transition: 1s;
+	background-image: linear-gradient(red, blue)
+}
